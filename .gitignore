@@ -1,0 +1,6 @@
+.vscode/
+*.out
+*.o
+*.c
+
+.fuse_hidden*
