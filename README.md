@@ -99,7 +99,7 @@ A implementação baseia-se em **chamadas de sistema do kernel Linux**, sem o us
 
 2. **Navegue até o diretório do projeto:**
     ```sh
-    cd TCD-Software-Basico
+    cd asm-libc
     ```
 
 ### Execução
