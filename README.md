@@ -94,7 +94,7 @@ A implementação baseia-se em **chamadas de sistema do kernel Linux**, sem o us
 
 1. **Clone o repositório:**
    ```sh
-   git clone https://github.com/natansantoz/TCD-Software-Basico.git
+   git clone https://github.com/natansantoz/asm-libc.git
    ```
 
 2. **Navegue até o diretório do projeto:**
